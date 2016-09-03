@@ -1,17 +1,14 @@
 ---
-datePublished: '2016-08-31T20:36:54.002Z'
+datePublished: '2016-08-31T20:37:08.102Z'
+sourcePath: _posts/2016-08-31-exhibition-invitation-the-night-watch.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T20:36:39.434Z'
+dateModified: '2016-08-31T20:37:07.554Z'
 title: ''
 publisher: {}
 description: 'Exhibition Invitation: "The Night Watch"'
 starred: false
-sourcePath: _posts/2016-08-31-exhibition-invitation-the-night-watch.md
-inFeed: true
-hasPage: true
-inNav: false
-url: exhibition-invitation-the-night-watch/index.html
 _context: 'http://schema.org'
 _type: Article
 
