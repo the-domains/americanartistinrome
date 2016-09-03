@@ -1,20 +1,4 @@
-name: americanartistinrome
-favicon: null
-layout_spectrum: 0.46955
 typography_spectrum: 0.83568
-title: American Artist in Rome
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#140b06'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8715461124666035
   saturation: 0.8314735780004412
   rhythmicContrast: 0.5839146384969354
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.46955
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: americanartistinrome
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: American Artist in Rome
+description: 'Paintings, Drawings and Words by Timothy Joseph Allen'
 purpose: []
